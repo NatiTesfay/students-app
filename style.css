@@ -1,0 +1,59 @@
+h1{
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    color: #1667dc;
+}
+button{
+    
+    width:50 ;
+    height: 20;
+    background-color: #1667dc;
+    color: white;
+
+    
+}
+body{
+    background-image: url("sun.jfif");
+    background-repeat:repeat;
+    background-size: 100vh;
+
+}
+
+header{
+    border: 5px solid;
+    height: 10vh;
+    border-color: white;
+    background-color: #5e95e4 ;
+    color: white;
+
+}
+
+footer{
+    border: 5px solid;
+    height: 10vh;
+    border-color: white;
+    background-color: #5e95e4 ;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+div{
+    height: 100vh;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    width: 90vh;
+    background-color: #261dcd ;
+    
+  }
+  ul{
+    color: #0e72f0 ;
+  }
+  ol{
+    color: #0ef047 ;
+  }
+  
